@@ -26,13 +26,9 @@ int DeleteAfter(Position head, char* surname);
 
 int main(int argc, char** argv)
 {
-	Position a = CreatePerson("Marin", "Zdero", 2001);
-	Person Head = { .next =a , .name = {0} , .surname = {0} , .birthYear = 0 };
+
+	Person Head = { .next =NULL, .name = {0} , .surname = {0} , .birthYear = 0 };
 	Position p = &Head;
-	AppendList(p, "Ivo", "Ivic", 2000);
-	AppendList(p, "Karlo", "Karlic", 1999);
-	DeleteAfter(p,"Ivic");
-	PrintList(a);
 	return EXIT_SUCCESS;
 }
 
