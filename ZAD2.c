@@ -235,8 +235,6 @@ int CitanjeIzDatoteke(Position head, char* datoteka)
 	char ime[50] = { 0 };
 	char prezime[50] = { 0 };
 	int godina_rodjenja = 0;
-	char* buffer[1024] = { 0 };
-	int h = 0;
 	Position q = head;
 	datoteka = fopen("datoteka.txt", "r");
 	if (!datoteka)
