@@ -1,5 +1,0 @@
-﻿  zadatak_7.c
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_7\zadatak_7\zadatak_7.c(130,19): warning C4133: '=': incompatible types - from 'PositionStack' to 'PositionDir'
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_7\zadatak_7\zadatak_7.c(136,1): warning C4133: 'initializing': incompatible types - from 'PositionDir' to 'PositionStack'
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_7\zadatak_7\zadatak_7.c(189): warning C4716: 'findPrev': must return a value
-  zadatak_7.vcxproj -> C:\Users\Marin Ždero\Desktop\strukt\zadatak_7\Debug\zadatak_7.exe
