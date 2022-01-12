@@ -1,0 +1,39 @@
+﻿  funkcije.c
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(6,24): warning C4091: 'typedef ': ignored on left of '_student' when no variable is declared
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,47): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,47): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,56): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,69): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,28): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,28): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,37): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,50): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,29): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,29): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,38): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,42): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,23): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,23): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,32): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,36): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.c(82,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Source.c
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(6,24): warning C4091: 'typedef ': ignored on left of '_student' when no variable is declared
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,47): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,47): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,56): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(9,69): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,28): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,28): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,37): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(11,50): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,29): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,29): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,38): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(14,42): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,23): error C2143: syntax error: missing ')' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,23): error C2143: syntax error: missing '{' before '*'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,32): error C2059: syntax error: 'type'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.h(17,36): error C2059: syntax error: ')'
+C:\Users\Marin Ždero\source\repos\Strukture_zad_1\Strukture_zad_1\funkcije.c(82,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...

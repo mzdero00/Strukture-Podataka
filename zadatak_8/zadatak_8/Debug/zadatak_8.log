@@ -1,9 +1,8 @@
-﻿  zadatak_8.c
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(119,3): warning C4033: 'InOrder' must return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(128,3): warning C4033: 'PreOrder' must return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(137,3): warning C4033: 'PostOrder' must return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(94): warning C4715: 'insert': not all control paths return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(132): warning C4716: 'PreOrder': must return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(141): warning C4716: 'PostOrder': must return a value
-C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\zadatak_8\zadatak_8.c(123): warning C4716: 'InOrder': must return a value
-  zadatak_8.vcxproj -> C:\Users\Marin Ždero\Desktop\strukt\zadatak_8\Debug\zadatak_8.exe
+﻿  funkcije.c
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.h(4,21): warning C4091: 'typedef ': ignored on left of '_tree' when no variable is declared
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.c(26,9): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.c(77,22): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.c(81,12): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.c(162,6): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\Zadatak_8\Zadatak_8\funkcije.c(71): warning C4715: 'menu': not all control paths return a value
+  Zadatak_8.vcxproj -> C:\Users\Marin Ždero\source\repos\Zadatak_8\Debug\Zadatak_8.exe

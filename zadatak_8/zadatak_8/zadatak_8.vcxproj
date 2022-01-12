@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1a8ec123-7ee6-4105-836c-2c4974728ccb}</ProjectGuid>
-    <RootNamespace>zadatak8</RootNamespace>
+    <ProjectGuid>{33453425-c55b-4faf-95cc-85a675587577}</ProjectGuid>
+    <RootNamespace>Zadatak8</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,10 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="zadatak_8.c" />
+    <ClCompile Include="funkcije.c" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text.txt" />
+    <ClInclude Include="funkcije.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

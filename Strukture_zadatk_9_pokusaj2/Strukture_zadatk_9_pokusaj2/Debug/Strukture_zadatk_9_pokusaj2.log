@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(84,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(117,23): warning C4133: 'function': incompatible types - from 'Position' to 'PositionList'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(120,12): warning C4133: 'function': incompatible types - from 'Position' to 'PositionList'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(124,23): warning C4133: 'function': incompatible types - from 'Position' to 'PositionList'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(127,12): warning C4133: 'function': incompatible types - from 'Position' to 'PositionList'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(87,1): warning C4133: 'initializing': incompatible types - from 'list *' to 'Position'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(158,12): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Strukture_zadatk_9_pokusaj2\Source.c(251,12): warning C4047: 'return': 'PositionList' differs in levels of indirection from 'int'
+  Strukture_zadatk_9_pokusaj2.vcxproj -> C:\Users\Marin Ždero\source\repos\Strukture_zadatk_9_pokusaj2\Debug\Strukture_zadatk_9_pokusaj2.exe

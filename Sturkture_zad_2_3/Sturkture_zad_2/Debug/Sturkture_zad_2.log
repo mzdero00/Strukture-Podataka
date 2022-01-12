@@ -1,0 +1,4 @@
+﻿  funkcije.c
+C:\Users\Marin Ždero\source\repos\Sturkture_zad_2\Sturkture_zad_2\funkcije.h(4,22): warning C4091: 'typedef ': ignored on left of '_osoba' when no variable is declared
+C:\Users\Marin Ždero\source\repos\Sturkture_zad_2\Sturkture_zad_2\funkcije.c(90): warning C4716: 'menu': must return a value
+  Sturkture_zad_2.vcxproj -> C:\Users\Marin Ždero\source\repos\Sturkture_zad_2\Debug\Sturkture_zad_2.exe
