@@ -1,0 +1,11 @@
+﻿  funkcije.c
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.h(7,21): warning C4091: 'typedef ': ignored on left of '_list' when no variable is declared
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.h(19,21): warning C4091: 'typedef ': ignored on left of '_tree' when no variable is declared
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(9,1): warning C4029: declared formal parameter list different from definition
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(46,22): warning C4047: 'return': 'PositionT' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(49,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(66,17): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(103,12): warning C4047: 'return': 'PositionL' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(173,22): warning C4047: 'return': 'PositionL' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\zadatak_10\zadatak_10\funkcije.c(187,22): warning C4047: 'return': 'PositionL' differs in levels of indirection from 'int'
+  zadatak_10.vcxproj -> C:\Users\Marin Ždero\source\repos\zadatak_10\Debug\zadatak_10.exe

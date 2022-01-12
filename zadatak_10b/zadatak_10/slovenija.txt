@@ -1,0 +1,3 @@
+ljubljana 250000
+maribor 110000
+celje 40000
