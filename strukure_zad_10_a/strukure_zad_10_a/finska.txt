@@ -1,0 +1,3 @@
+helsinki 500000
+espoo 250000
+tampere 200000

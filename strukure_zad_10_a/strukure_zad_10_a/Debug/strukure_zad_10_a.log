@@ -1,0 +1,14 @@
+﻿  Source.c
+  funkcije.c
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(16,12): warning C4047: 'return': 'PositionList' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(19,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(38,12): warning C4047: 'return': 'PositionTree' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(74,18): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(105,12): warning C4047: 'return': 'PositionTree' differs in levels of indirection from 'int'
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(155,40): warning C4474: 'fscanf' : too many arguments passed for format string
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(155,40): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(182,52): warning C4474: 'fscanf' : too many arguments passed for format string
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(182,52): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  Generating Code...
+C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\strukure_zad_10_a\funkcije.c(279): warning C4715: 'findCity': not all control paths return a value
+  strukure_zad_10_a.vcxproj -> C:\Users\Marin Ždero\source\repos\strukure_zad_10_a\Debug\strukure_zad_10_a.exe

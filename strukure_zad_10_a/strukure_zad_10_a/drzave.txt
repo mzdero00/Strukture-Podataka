@@ -1,0 +1,3 @@
+hrvatska hrvatska.txt
+finska finska.txt
+italija italija.txt

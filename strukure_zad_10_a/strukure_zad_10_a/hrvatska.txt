@@ -1,0 +1,3 @@
+zagreb 1000000
+split 200000
+rijeka 150000
