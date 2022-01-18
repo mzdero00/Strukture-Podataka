@@ -1,0 +1,4 @@
+﻿  funkcije.c
+C:\Users\Marin Ždero\source\repos\strukture_zadatak4\strukture_zadatak4\funkcije.h(8,21): warning C4091: 'typedef ': ignored on left of '_poli' when no variable is declared
+C:\Users\Marin Ždero\source\repos\strukture_zadatak4\strukture_zadatak4\funkcije.c(60,28): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  strukture_zadatak4.vcxproj -> C:\Users\Marin Ždero\source\repos\strukture_zadatak4\Debug\strukture_zadatak4.exe
